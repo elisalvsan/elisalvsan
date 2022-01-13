@@ -1,10 +1,11 @@
-### Oi oi, eu sou elisa
+### Oi oi, eu sou elisa andrade
 
 - 💼 Atualmente trabalho como Auxiliar de Técnico em Eletrônica
 - 👩‍🎓 Cursando Ciência da Computação (quase finalizando)
 - 👩‍💻 Apredendo front-end e back-end (●'◡'●)
 - 😊 Pronomes: ela/dela
 
+# elisa andrade's github stats
 <div align="center">
   <a href="https://github.com/elisalvsan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -18,10 +19,11 @@
   <img align="center" alt="elisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="elisa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="elisa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/695378966072000612/930846538748555284/ezgif.com-gif-maker.gif?width=676&height=676">
+    <img align="right" alt="elisa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/695378966072000612/930846538748555284/ezgif.com-gif-maker.gif?width=676&height=676">
   </div>
   
-  ##
+  ## Contate-me
+  
   <div>
   <a href="https://instagram.com/amoracaxi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitter.com/alvsandrd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
@@ -30,3 +32,7 @@
  
   ![Snake animation](https://github.com/elisalvsan/elisalvsan/blob/output/github-contribution-grid-snake.svg)
   </div>
+  
+##
+  <img align="right" alt="gojo-pic" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/a7/da/8b/a7da8b6bcd0432826334a0c3c6ad5da3.gif?width=676&height=676">
+  
