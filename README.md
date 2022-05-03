@@ -1,7 +1,7 @@
 ### Oi oi, eu sou elisa andrade
 
 - 💼 Atualmente trabalho como Auxiliar de Técnico em Eletrônica
-- 👩‍🎓 Cursando Ciência da Computação (quase finalizando)
+- 👩‍🎓 Cursando Ciência da Computação (P7/P8)
 - 👩‍💻 Apredendo front-end e back-end (●'◡'●)
 - 😊 Pronomes: ela/dela
 
