@@ -1,8 +1,9 @@
 ### Oi oi, eu sou elisa andrade
 
 - 💼 Atualmente trabalho como Auxiliar de Técnico em Eletrônica
-- 👩‍🎓 Cursando Ciência da Computação (P7/P8)
-- 👩‍💻 Apredendo front-end e back-end <s>(e tudo que me interessa)</s>(●'◡'●)
+- 👩🏽‍💻 Técnica em Informática
+- 👩‍🎓 Graduação Ciência da Computação (P7/P8)
+- 👩‍💻 Estudando front-end, back-end e C#(●'◡'●)
 - 😊 Pronomes: ela/dela
 
 # elisa andrade's github stats
