@@ -8,9 +8,9 @@
 
 # elisa andrade's github stats
 <div align="center">
-  <a href="https://github.com/elisalvsan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/lisalvsan">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=8&layout=compact&theme=midnight-purple"/>
 </div>
 
   <div style="display: inline_block"><br>
