@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/lisalvsan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=9&layout=compact&theme=midnight-purple">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=10&layout=compact&theme=midnight-purple">
 </div>
 
 ## Technologies & Tools
