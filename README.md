@@ -1,9 +1,9 @@
 ### Oi, sou Elisa Andrade
 
-- 💼 Atualmente trabalho como Auxiliar de Técnico em Eletrônica
+- 💼 Trabalhando como auxiliar de técnico em eletrônica
 - 👩🏽‍💻 Técnica em Informática
-- 👩‍🎓 Graduação Ciência da Computação (P7/P8)
-- 👩‍💻 Estudando front-end, back-end(●'◡'●)
+- 👩‍🎓 Bacharelado em Ciência da Computação (P8/P8)
+- 👩‍💻 Estudando front-end e back-end
 - 😊 Pronomes: ela/dela
 
 ## GitHub Stats
