@@ -23,6 +23,12 @@ My name is Elisa Andrade, I'm 21 years old, I'm finishing my bachelor's degree i
 - Choro em quase todos os filmes que assisto.
 - Porgramar com barulho as vezes me acalma ?-?.
 
+### Curiosities
+
+- My favorite style of music is K-Pop.
+- I'm thinking of creating a youtube channel.
+- I cry in almost every movie I watch.
+
 ##
 
 <div align="center">
