@@ -6,7 +6,15 @@ Me chamo Elisa Andrade, tenho 21 anos, estou terminando meu bacharelado em Ciên
 
 Comecei a estudar programação em 2016 quando eu entrei no curso técnico e deste que eu me formei contínuo estudando para melhorar cada vez mais.
 
-Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me sentir tão segura para desenvolver um projeto sozinha).~~
+Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me sentir tão segura para desenvolver um projeto sozinha)~~.
+
+## Hello
+
+My name is Elisa Andrade, I'm 21 years old, I'm finishing my bachelor's degree in Computer Science and I work as an electronics technician's assistant.
+
+ I started studying programming in 2016 when I entered the technical course and since then I have continued studying to improve more and more.
+
+ I like to develop projects for backend and frontend. ~~(although I don't feel so safe to develop a project by myself)~~.
 
 ### Curiosidades
 
