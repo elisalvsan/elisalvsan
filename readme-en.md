@@ -21,7 +21,7 @@ I started studying programming in 2016 when I entered the technical course and s
 
 I like to develop projects for backend and frontend. ~~(although I don't feel so safe to develop a project by myself)~~.
 
-### Curiosities
+### Curiosities 
 
 - My favorite style of music is K-Pop.
 - I'm thinking of creating a youtube channel.
