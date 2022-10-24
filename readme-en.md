@@ -1,14 +1,14 @@
 ## Hello
 
-<table >
+<table align="center">
   <tr>
     <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
+      <a href="README.md">🇧🇷 Português</a>
     </td>
     <td>
-      <a href="README-EN.md">🇺🇸 English</a>
+      <b>
+        <a href="readme-en.md">🇺🇸 English</a>
+      </b>
     </td>
   </tr>
 </table>
