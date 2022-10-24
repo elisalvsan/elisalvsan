@@ -8,7 +8,7 @@
       </b>
     </td>
     <td>
-      <a href="README-EN.md">🇺🇸 English</a>
+      <a href="readme-en.md">🇺🇸 English</a>
     </td>
   </tr>
 </table>
