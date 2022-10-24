@@ -8,13 +8,6 @@ Comecei a estudar programação em 2016 quando eu entrei no curso técnico e des
 
 Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me sentir tão segura para desenvolver um projeto sozinha)~~.
 
-## Hello
-
-My name is Elisa Andrade, I'm 21 years old, I'm finishing my bachelor's degree in Computer Science and I work as an electronics technician's assistant.
-
- I started studying programming in 2016 when I entered the technical course and since then I have continued studying to improve more and more.
-
- I like to develop projects for backend and frontend. ~~(although I don't feel so safe to develop a project by myself)~~.
 
 ### Curiosidades
 
@@ -22,12 +15,6 @@ My name is Elisa Andrade, I'm 21 years old, I'm finishing my bachelor's degree i
 - Estou pensando em criar um canal no youtube.
 - Choro em quase todos os filmes que assisto.
 - Porgramar com barulho as vezes me acalma ?-?.
-
-### Curiosities
-
-- My favorite style of music is K-Pop.
-- I'm thinking of creating a youtube channel.
-- I cry in almost every movie I watch.
 
 ##
 
