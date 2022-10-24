@@ -1,5 +1,18 @@
 ## Olá
 
+<table >
+  <tr>
+    <td>
+      <b>
+        <a href="README.md">🇧🇷 Português</a>
+      </b>
+    </td>
+    <td>
+      <a href="README-EN.md">🇺🇸 English</a>
+    </td>
+  </tr>
+</table>
+
 <img align="right" alt="elisa-pic" width= "250" src="https://cdn.discordapp.com/attachments/695378966072000612/930846538748555284/ezgif.com-gif-maker.gif?width=676&height=676">
 
 Me chamo Elisa Andrade, tenho 21 anos, estou terminando meu bacharelado em Ciência da Computação e trabalho como auxiliar de técnico em eletrônica.
@@ -16,7 +29,7 @@ Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me se
 - Choro em quase todos os filmes que assisto.
 - Porgramar com barulho as vezes me acalma ?-?.
 
-##
+## Atividades
 
 <div align="center">
   <a href="https://github.com/lisalvsan">
