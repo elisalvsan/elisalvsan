@@ -1,6 +1,6 @@
 ## Hello
 
-<table align="center">
+<table>
   <tr>
     <td>
       <a href="README.md">🇧🇷 Português</a>
@@ -27,14 +27,17 @@ I like to develop projects for backend and frontend. ~~(although I don't feel so
 - I'm thinking of creating a youtube channel.
 - I cry in almost every movie I watch.
 
-##
+## Activities
 
 <div align="center">
-  <a href="https://github.com/lisalvsan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=10&layout=compact&theme=midnight-purple">
+  <a href="https://github.com/elisalvsan">
+  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"-->
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&custom_title=elisalvsan's%20Github%20Stats&theme=midnight-purple&hide_border=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=20&layout=compact&theme=midnight-purple">
+  <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=elisalvsan&theme=high-contrast&hide_border=true">
 </div>
 
+  
 ## Skills
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
