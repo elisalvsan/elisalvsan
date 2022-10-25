@@ -58,5 +58,6 @@ Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me se
   [![LinkedIn](https://img.shields.io/badge/Elisa%20Andrade-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisamaria-alvesdeandrade/)
   [![Twitter](https://img.shields.io/badge/@alvsandrd-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alvsandrd)
   [![Instagram](https://img.shields.io/badge/@alvsandrd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alvsandrd)
+   [![Curriculo](https://img.shields.io/badge/Curriculo-%18c71e.svg?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1iZ4Pe4Aq3s71Dli_QSP8PGM_5RD0QEya/view?usp=sharing)
 
   <img src="https://komarev.com/ghpvc/?username=elisalvsan&color=ff69b4&style=for-the-badge&label=Vista+de+perfil" alt="Profile views" /> </p>
