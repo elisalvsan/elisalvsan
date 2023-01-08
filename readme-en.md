@@ -34,8 +34,9 @@ I like to develop projects for backend and frontend. ~~(although I don't feel so
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"-->
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&custom_title=elisalvsan's%20Github%20Stats&theme=radical&hide_border=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=20&layout=compact&theme=radical">
+    <img height="160em" src="https://streak-stats.demolab.com?user=elisalvsan&theme=radical&hide_border=true&border_radius=5"/>
   <!--<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=elisalvsan&theme=high-contrast&hide_border=true">-->
-     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elisalvsan&theme=radical"/> 
+     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elisalvsan&theme=radical"/> 
 </div>
 
   
