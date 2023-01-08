@@ -33,11 +33,11 @@ Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me se
 <div align="center" >
   <a href="https://github.com/elisalvsan">
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"-->
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&custom_title=elisalvsan's%20Github%20Stats&theme=radical&hide_border=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=20&custom_title=Linguagens%20mais%20usadas&layout=compact&theme=radical">
-    <img height="155em" src= "https://streak-stats.demolab.com?user=elisalvsan&theme=radical&hide_border=true&border_radius=5&locale=pt_BR"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&custom_title=elisalvsan's%20Github%20Stats&theme=radical&hide_border=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=20&custom_title=Linguagens%20mais%20usadas&layout=compact&theme=radical">
+    <img height="170em" src= "https://streak-stats.demolab.com?user=elisalvsan&theme=radical&hide_border=true&border_radius=5&locale=pt_BR"/>
   <!--<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=elisalvsan&theme=high-contrast&hide_border=true">-->
-     <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elisalvsan&theme=radical"/>
+     <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elisalvsan&theme=radical"/>
   
 </div>
 
