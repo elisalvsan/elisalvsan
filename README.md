@@ -21,37 +21,37 @@ Comecei a estudar programação em 2016 quando eu entrei no curso técnico e des
 
 Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me sentir tão segura para desenvolver um projeto sozinha)~~.
 
-### Curiosidades
-
-- Meu estilo favorito de música é K-Pop.
-- Estou pensando em criar um canal no youtube.
-- Choro em quase todos os filmes que assisto.
-- Porgramar com barulho as vezes me acalma ?-?.
-
 ## Atividades
 
 <div align="center" >
   <a href="https://github.com/elisalvsan">
-  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"-->
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&custom_title=elisalvsan's%20Github%20Stats&theme=radical&hide_border=true">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=20&custom_title=Linguagens%20mais%20usadas&layout=compact&theme=radical">
-    <img height="170em" src= "https://streak-stats.demolab.com?user=elisalvsan&theme=radical&hide_border=true&border_radius=5&locale=pt_BR"/>
-  <!--<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=elisalvsan&theme=high-contrast&hide_border=true">-->
-     <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elisalvsan&theme=radical"/>
-  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+    <!--img height="165em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&custom_title=elisalvsan's%20Github%20Stats&theme=radical&hide_border=true"-->
+ <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elisalvsan&layout=compact&langs_count=10&theme=radical"/>
+  <img height="165em" src= "https://streak-stats.demolab.com?user=elisalvsan&theme=radical&hide_border=true&border_radius=5&locale=pt_BR"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elisalvsan&theme=radical"/>
+  </a>
 </div>
 
-## Skills
+## Ferramentas e Tecnologias
 
 <div>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java">
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML">
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS">
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript">
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React">
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring">
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp">
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+## Estou aprendendo
+<div>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="CSharp"/>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"" alt="React"/>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+
 </div>
   
 ## Contatos
