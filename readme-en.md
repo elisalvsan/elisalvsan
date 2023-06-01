@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<img align="right" alt="elisa-pic" width= "250" src="https://cdn.discordapp.com/attachments/695378966072000612/930846538748555284/ezgif.com-gif-maker.gif?width=676&height=676">
+<img align="right" alt="elisa-pic" width= "200" src="https://cdn.discordapp.com/attachments/695378966072000612/930846538748555284/ezgif.com-gif-maker.gif?width=676&height=676">
 
 My name is Elisa Andrade, I'm 21 years old, I'm finishing my bachelor's degree in Computer Science and I work as an electronics technician's assistant.
 
