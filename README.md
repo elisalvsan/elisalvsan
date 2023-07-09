@@ -1,19 +1,6 @@
 ## Olá
 
-<table >
-  <tr>
-    <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
-    </td>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </td>
-  </tr>
-</table>
-
-<img align="right" alt="elisa-pic" width= "200" src="https://cdn.discordapp.com/attachments/695378966072000612/930846538748555284/ezgif.com-gif-maker.gif?width=676&height=676">
+<img align="right" alt="elisa-pic" width= "220" src="https://cdn.discordapp.com/attachments/695378966072000612/930846538748555284/ezgif.com-gif-maker.gif?width=676&height=676">
 
 Me chamo Elisa Andrade, tenho 21 anos, estou terminando meu bacharelado em Ciência da Computação e trabalho como auxiliar de técnico em eletrônica.
 
@@ -25,8 +12,8 @@ Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me se
 
 <div align="center" >
   <a href="https://github.com/elisalvsan">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-    <!--img height="165em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&custom_title=elisalvsan's%20Github%20Stats&theme=radical&hide_border=true"-->
+ <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=radical&include_all_commits=true&count_private=true">-->
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elisalvsan&layout=compact&langs_count=10&theme=radical"/>
   <img height="165em" src= "https://streak-stats.demolab.com?user=elisalvsan&theme=radical&hide_border=true&border_radius=5&locale=pt_BR"/>
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elisalvsan&theme=radical"/>
