@@ -2,11 +2,18 @@
 
 ### Sobre mim:
 
-*Me chamo Elisa Andrade, tenho 22 anos, finalizei minha graduação em Ciência da Computação e estou cursando minha pós em Desenvolvimento Web Full Stack.*
+*Me chamo Elisa Andrade, tenho 22 anos, trabalho como Auxiliar de Técnico em Eletrônica.*
 
 Comecei a estudar programação em 2016 quando eu entrei no curso técnico e deste que eu me formei contínuo estudando para melhorar cada vez mais.
 
-Gosto de desenvolver projetos para back-end e front-end. ~~(apeser de não me sentir tão segura para desenvolver um projeto sozinha)~~.
+*Finalizei meu curso de Técnico em Informática em 2018*
+
+*Finalizei meu Bacharelado em Ciência da Computação em 2022*
+
+*Finalizei minha pós-graduação em Desenvolvimento Web Full Stack em 2023*
+
+*Atualmente estou fazendo um Tecnólogo em Analise e Desenvolvimento de Software além de alguns cursos.*
+
 
 ### Linguagens
 
