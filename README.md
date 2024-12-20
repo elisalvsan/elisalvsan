@@ -21,17 +21,13 @@ Comecei a estudar programação em 2016 quando eu entrei no curso técnico e des
 
     [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres)](https://skillicons.dev)
 
-- Front-End
-
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap)](https://skillicons.dev)
-
 - Ferramentas
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,eclipse,idea)](https://skillicons.dev)
 
 - Aprendendo
 
-    [![My Skills](https://skillicons.dev/icons?i=cs,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 ### Minhas estatísticas
 
