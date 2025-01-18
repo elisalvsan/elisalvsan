@@ -37,10 +37,6 @@ Comecei a estudar programação em 2016 quando eu entrei no curso técnico e des
 |--------------------------------------------------------|--------------------------------------------------------|
 |![elisalvsan's Git Stats](https://github-readme-stats.vercel.app/api?username=elisalvsan&show_icons=true&hide_border=true&count_private=true&theme=radical)|![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=elisalvsan&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact)|
 
-|<p align="center">My Streak</p>|
-|---------------------------------------------------------------|
-|![My Streak](https://streak-stats.demolab.com?user=elisalvsan&theme=radical&hide_border=true&border_radius=5&locale=pt_BR)|
-
 |<p align="center">Gráfico de Contribuição</p>|
 |----------------------------------------------|
 |![Gráfico de Contribuição](https://github-readme-activity-graph.vercel.app/graph?username=elisalvsan&theme=redical&hide_border=true&show_icons=true&custom_title=Gráfico%20de%20Contribuição)|
