@@ -27,7 +27,7 @@ Comecei a estudar programação em 2016 quando eu entrei no curso técnico e des
 
 - Aprendendo
 
-    [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### Minhas estatísticas
 
